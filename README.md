@@ -3,8 +3,7 @@
 ### Use Element Theme 
 http://element.eleme.io/
 
-See this homework (VueJS project) in 
-### Live action:
+###  See this homework (VueJS project) in live action:
 https://bankcrazy.github.io/veeravit-iccs340-hw02/
 
 ### BONUS 
