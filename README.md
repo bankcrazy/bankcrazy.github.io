@@ -13,7 +13,7 @@ Modify PostsController so that it use current_user as @post.user
 
 Here is a link to modified rails-project
 
-https://bitbucket.org/Bankcrazy/vue-api-auth
+https://bitbucket.org/Bankcrazy/iccs340-homework2-rails-backend
 
 Host Rails project on Heroku at
 
