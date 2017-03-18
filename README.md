@@ -1,7 +1,5 @@
-## ICCS340
-## homework2
-## Veeravit Harutaipree
-## ID:5680374
+## ICCS340 Homework02
+## Veeravit Harutaipree ID:5680374
 ## Use Element Theme http://element.eleme.io/
 
 See this homework (VueJS project) in live action:
