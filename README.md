@@ -1,12 +1,13 @@
 ## ICCS340 Homework02
 ## Veeravit Harutaipree ID:5680374
-## Use Element Theme 
+### Use Element Theme 
 http://element.eleme.io/
 
-See this homework (VueJS project) in live action:
+See this homework (VueJS project) in 
+### Live action:
 https://bankcrazy.github.io/veeravit-iccs340-hw02/
 
-## BONUS 
+### BONUS 
 Add Relationship so that Post belongs_to User on Rails project
 Modify PostsController so that it use current_user as @post.user
 Here is a link to modified rails-project
