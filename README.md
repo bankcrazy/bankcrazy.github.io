@@ -1,6 +1,7 @@
 ## ICCS340 Homework02
 ## Veeravit Harutaipree ID:5680374
-## Use Element Theme http://element.eleme.io/
+## Use Element Theme 
+http://element.eleme.io/
 
 See this homework (VueJS project) in live action:
 https://bankcrazy.github.io/veeravit-iccs340-hw02/
