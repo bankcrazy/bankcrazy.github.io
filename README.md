@@ -1,4 +1,21 @@
+# ICCS340
 # homework2
+# Veeravit Harutaipree
+# ID:5680374
+# Use Element Theme http://element.eleme.io/
+
+See this homework (VueJS project) in live action:
+https://bankcrazy.github.io/veeravit-iccs340-hw02/
+
+# BONUS 
+Add Relationship so that Post belongs_to User on Rails project
+Modify PostsController so that it use current_user as @post.user
+Here is a link to modified rails-project
+https://bitbucket.org/Bankcrazy/vue-api-auth
+
+Host Rails project on Heroku at
+https://iccs340-backend-rails-veeravit.herokuapp.com/
+
 
 > A Vue.js project
 
